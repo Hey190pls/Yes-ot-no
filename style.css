@@ -1,0 +1,114 @@
+/* Загальні стилі для сайту */
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+/* Офромлення шапки. Задати колір тексту, вирівнювання тексту, задній фон */
+header {
+    background-color: #141414;
+    padding: 25px; 
+
+}
+
+/* Офромлення кнопок (посилань в навігації) */
+nav a {
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px 15px 10px 10px;
+    margin: 25px 10px;
+    background-color: white;
+    text-align: right;
+    color: black;
+}
+
+/* Офромлення основної частини: можна додати задній фон*/
+main {
+    margin: 20px;
+}
+
+/* Офромлення заголовку. Додати колір тексту, задній фон, межу тощо */
+main h1 {
+    font-size: 45px;
+    text-align: center;
+    color: ;
+}
+
+/* Офромлення підзаголовку. Додати колір тексту, задній фон, межу тощо */
+main h2 {
+    font-size: 35px;
+    text-align: center;
+    color: ;
+}
+
+main h3 {
+    font-size: 25px;
+}
+
+.login {
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px;
+    background-color: white;
+}
+
+.games {
+    text-align: left;
+}
+
+.games_2 {
+    text-align:left;
+
+}
+
+.download {
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 15px 20px;
+    margin: 10px 15px;
+    background-color: black;
+    text-align: left;
+    color: white;
+}
+
+/* Офромлення основного ткусті. Додати колір тексту, задній фон, межу тощо */
+main p {
+    font-size: 20px;
+}
+
+table {
+    background-color: black;
+    color: grey;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.saytu {
+    text-decoration: none;
+    color: grey;
+}
+
+tr {}
+
+td {}
+
+/* Офромлення опідвалу сайту: можна додати задній фон*/
+footer {
+    background-color: black;
+    color: grey;
+}
+
+footer td {
+    padding: 7.5px;
+}
+
+/* Офромлення тексту в футері. Задати колір тексту, вирівнювання тексту, задній фон */
+footer p {}
+
+
+/* Офромлення посилання в футері. Задати колір тексту, вирівнювання тексту, задній фон */
+footer a {}
